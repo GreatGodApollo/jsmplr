@@ -4,10 +4,10 @@
 A random programming language implementation written in Java
 
 ## Built With
-> Used technologies here
+- Straight up Java
 
 ## Usage
-> How to use this software
+See `test.sml` for an example of SMPLR. No support is provided on how to run it.
 
 ## Licensing
 
